@@ -1,1 +1,1 @@
-var playlist = { "Slowdive": "Allison","My Bloody Valentine" : "Sometimes"};
+var playlist = { artistName: songTitle};
